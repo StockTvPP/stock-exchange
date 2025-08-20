@@ -75,5 +75,5 @@ Stock Exchange 是一个基于 **Spring Boot** 和 **Vue.js** 构建的印度股
 
 如果有演示或者购买需求，欢迎联系：
 
-- 邮箱：stocktv.top@outlook.com
-- Telegram: [CryptoRzz](https://t.me/CryptoRzz)
+- 官网：[stocktv.top@outlook.com](https://pao.stocktv.top/)
+- Telegram: https://t.me/stocktvpaopao
